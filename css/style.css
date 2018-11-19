@@ -28,7 +28,7 @@ src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-op
     height:80%;
     left:0;
     right:0;
-    z-index:100;
+    /* z-index:100; */
 }
 
 
@@ -52,6 +52,7 @@ src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-op
   font-family: Arial;
   font-size: 12px;
 }
+
 
 #option{
   position:absolute;
